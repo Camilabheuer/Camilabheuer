@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Camilabheuer
-- 👀 I’m interested in it
+- 👀 I’m interested in programing
 - 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me camila.bheuer@gmail.com
